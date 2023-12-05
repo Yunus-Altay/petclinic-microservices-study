@@ -1,0 +1,1 @@
+. ./ansible/scripts/run_dummy_selenium_job.sh
