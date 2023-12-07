@@ -1,6 +1,6 @@
 nodes:
-  - address: 172.31.45.225                # Change with the Private Ip of rancher server
-    internal_address: 172.31.45.225       # Change with the Private Ip of rancher server
+  - address: 172.31.42.85               # Change with the Private Ip of rancher server
+    internal_address: 172.31.42.85     # Change with the Private Ip of rancher server
     user: ubuntu
     role:
       - controlplane
